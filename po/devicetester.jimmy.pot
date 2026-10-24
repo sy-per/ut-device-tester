@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: devicetester.jimmy\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: qml/tests/SensorTest.qml
+msgid "  (|g|=%1)"
+msgstr ""
+
+#: qml/tests/SensorTest.qml
+msgid "  field out of range — calibrate (draw an 8 in the air)"
+msgstr ""
+
+#: qml/tests/SensorTest.qml
+msgid "  |g|=%1 out of range"
+msgstr ""
+
+#: qml/tests/BatteryTest.qml
+msgid " (charger connected)"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid " (offline)"
+msgstr ""
+
+#: qml/tests/BatteryTest.qml
+msgid " (on battery)"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid " (online)"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "%1 (%2), signal %3%"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "%1 Hz, %2 samples"
+msgstr ""
+
+#: qml/tests/WifiSpeedTest.qml
+msgid "%1 Mbit/s (%2 MB in %3 s)"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 camera"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 elapsed of %2"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 failed"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "%1 network(s) visible"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 passed"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 skipped"
+msgstr ""
+
+#: qml/Main.qml
+msgid "%1 test(s)"
+msgstr ""
+
+#: qml/tests/StorageTest.qml
+msgid "%1 writes + read-back OK in %2 ms"
+msgstr ""
+
+#: qml/tests/TouchTest.qml
+msgid "%1/%2 cells, %3 finger(s) max"
+msgstr ""
+
+#: qml/tests/BatteryTest.qml
+msgid ", health: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Accelerometer"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Advanced / SIM"
+msgstr ""
+
+#: qml/tests/TouchTest.qml
+msgid "All zones OK, multi-touch with %1 fingers"
+msgstr ""
+
+#: qml/tests/MemoryTest.qml
+msgid "Almost no free storage"
+msgstr ""
+
+#: qml/Main.qml
+msgid "As soon as you tap Start, speak or tap the bottom of the phone for 3 seconds."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Audio and vibration"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "Audio error %1"
+msgstr ""
+
+#: qml/tests/SpeakerTest.qml
+msgid "Audio playback failed"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Automatic"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Barometer"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Battery"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Battery and storage"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Bluetooth"
+msgstr ""
+
+#: qml/tests/BluetoothTest.qml
+msgid "Bluetooth error "
+msgstr ""
+
+#: qml/tests/BluetoothTest.qml
+msgid "Bluetooth is off"
+msgstr ""
+
+#: qml/tests/DeviceInfoTest.qml
+msgid "CPU: %1 cores, up to %2 MHz"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Camera"
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "Camera active, capturing…"
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "Camera error: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Cameras and flashlight"
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "Capture OK: "
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "Capture failed: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Charger and USB"
+msgstr ""
+
+#: qml/tests/ChargerTest.qml
+msgid "Charger connected"
+msgstr ""
+
+#: qml/tests/ChargerTest.qml
+msgid "Charger connected — unplug the cable"
+msgstr ""
+
+#: qml/tests/ChargerTest.qml
+msgid "Charger disconnected"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Checks internet access. To test Wi-Fi alone, turn off mobile data."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Checks that a SIM card is inserted and unlocked."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Checks that mobile data is attached. Turn it on in Settings first."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Checks that the mobile modem is detected by oFono."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Checks the registration on the operator network and the signal strength."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Close"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Collects the model, system version, kernel and CPU information."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Compass"
+msgstr ""
+
+#: qml/Main.qml qml/TestBase.qml
+msgid "Confirmed by the user"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Copy"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "Could not open the microphone (error %1)"
+msgstr ""
+
+#: qml/tests/DeviceInfoTest.qml
+msgid "Could not read device information"
+msgstr ""
+
+#: qml/tests/MemoryTest.qml
+msgid "Could not read memory or storage"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "Could not read the networks: %1"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Could not save the report"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Cover the light sensor (top of the screen) with your finger, then uncover it, ideally under a lamp."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Cover then uncover the sensor"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Device Tester"
+msgstr ""
+
+#: qml/tests/BluetoothTest.qml
+msgid "Device found: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Device information"
+msgstr ""
+
+#: qml/tests/VibrationTest.qml
+msgid "Did the phone vibrate?"
+msgstr ""
+
+#: qml/tests/SpeakerTest.qml
+msgid "Do you hear a tone from the speaker?"
+msgstr ""
+
+#: qml/tests/WifiSpeedTest.qml
+msgid "Download failed (HTTP %1)"
+msgstr ""
+
+#: qml/tests/WifiSpeedTest.qml
+msgid "Downloading 5 MB…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Downloads a 5 MB file to measure the speed of the active connection."
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Face down"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Face up"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Failed"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Flashlight"
+msgstr ""
+
+#: qml/tests/TorchTest.qml
+msgid "Flashlight LED not accessible (/sys/class/leds)"
+msgstr ""
+
+#: qml/tests/TorchTest.qml
+msgid "Flashlight on"
+msgstr ""
+
+#: qml/Main.qml
+msgid "GPS"
+msgstr ""
+
+#: qml/tests/GpsTest.qml
+msgid "GPS source error: "
+msgstr ""
+
+#: backend/backend.cpp
+msgid "GetDevices failed: %1"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "GetModems failed"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Gyroscope"
+msgstr ""
+
+#: qml/tests/HeadsetTest.qml
+msgid "Headphones detected"
+msgstr ""
+
+#: qml/tests/HeadsetTest.qml
+msgid "Headset already plugged in — unplug it, then plug it back"
+msgstr ""
+
+#: qml/tests/HeadsetTest.qml
+msgid "Headset detection not available on this device"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Headset jack"
+msgstr ""
+
+#: qml/tests/HeadsetTest.qml
+msgid "Headset with microphone detected"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Hide passed tests"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Interaction required"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Internet (Wi-Fi / data)"
+msgstr ""
+
+#: qml/tests/NetworkTest.qml
+msgid "Internet OK (%1 ms)"
+msgstr ""
+
+#: qml/tests/TorchTest.qml
+msgid "Is the flashlight on?"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Keep the phone away from metal objects and magnets."
+msgstr ""
+
+#: qml/tests/DeviceInfoTest.qml
+msgid "Kernel %1 (%2)"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Landscape (left)"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Landscape (right)"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Last run: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Lay the phone flat and keep it still."
+msgstr ""
+
+#: qml/tests/MicTest.qml
+msgid "Level too low (%1) — speak close to the microphone"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Light sensor"
+msgstr ""
+
+#: qml/tests/GpsTest.qml
+msgid "Looking for a position (%1)…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Looks for visible Wi-Fi networks. Wi-Fi must be turned on."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Magnetometer"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Measuring rotation."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Memory and storage"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Microphone"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Mobile data"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "Mobile data attached"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "Mobile data not attached (turn it on in Settings)"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Mobile network"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Modem"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Multi-touch"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Network and location"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "NetworkManager unreachable (system D-Bus)"
+msgstr ""
+
+#: qml/Main.qml qml/TestBase.qml
+msgid "No"
+msgstr ""
+
+#: qml/tests/BluetoothTest.qml
+msgid "No Bluetooth adapter"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "No SIM card inserted"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "No Wi-Fi interface"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "No audio input device"
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "No camera detected"
+msgstr ""
+
+#: qml/Main.qml
+msgid "No camera detected."
+msgstr ""
+
+#: backend/backend.cpp
+msgid "No data received from the microphone"
+msgstr ""
+
+#: qml/tests/NetworkTest.qml
+msgid "No internet access (HTTP %1)"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "No modem detected by oFono"
+msgstr ""
+
+#: qml/tests/WifiTest.qml
+msgid "No network visible"
+msgstr ""
+
+#: qml/tests/GpsTest.qml
+msgid "No position source (location service missing?)"
+msgstr ""
+
+#: qml/tests/BatteryTest.qml qml/tests/ChargerTest.qml
+msgid "No readable battery in /sys/class/power_supply"
+msgstr ""
+
+#: qml/Main.qml
+msgid "No run recorded yet"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "Not registered yet (%1)"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Now: %1 — portrait %2, landscape %3"
+msgstr ""
+
+#: qml/Main.qml
+msgid "OK"
+msgstr ""
+
+#: qml/tests/ChargerTest.qml
+msgid "On battery — plug in the cable"
+msgstr ""
+
+#: qml/tests/CameraTest.qml
+msgid "Opening "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Or tap a test to run it on its own"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Orientation"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Orientation sensor not available"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Other"
+msgstr ""
+
+#: qml/tests/SpeakerTest.qml
+msgid "Playing a tone…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Plug a headset or headphones into the 3.5 mm jack. If one is already plugged in, unplug it first."
+msgstr ""
+
+#: qml/tests/HeadsetTest.qml
+msgid "Plug in a headset or headphones"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Plug in or unplug the charging cable (USB or wall charger). The change must be detected."
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Portrait"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Portrait (upside down)"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Portrait and landscape detected"
+msgstr ""
+
+#: qml/tests/ButtonsTest.qml
+msgid "Press Volume up then Volume down"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Press Volume up, then Volume down. If nothing reacts, the system is probably intercepting the keys: skip this step."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Proximity sensor"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Put your hand on the phone. It will vibrate for about a second."
+msgstr ""
+
+#: qml/Main.qml
+msgid "QML module not available on this device"
+msgstr ""
+
+#: qml/tests/DeviceInfoTest.qml
+msgid "RAM: %1 GB"
+msgstr ""
+
+#: qml/tests/MemoryTest.qml
+msgid "RAM: %1 GB free of %2 GB"
+msgstr ""
+
+#: qml/tests/MicTest.qml
+msgid "RMS %1 dBFS, peak %2 dBFS"
+msgstr ""
+
+#: qml/tests/StorageTest.qml
+msgid "Read-back mismatch"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Reading the atmospheric pressure (missing on many devices)."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Reading the azimuth."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Reading the battery level, voltage and temperature."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Reading the device orientation."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Reads the free RAM and the free storage space."
+msgstr ""
+
+#: qml/tests/MicTest.qml
+msgid "Recording for 3 s… speak or tap the microphone"
+msgstr ""
+
+#: qml/Main.qml qml/TestBase.qml
+msgid "Rejected by the user"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Report"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Report copied"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Report saved: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Rerun failed tests"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Result"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Result: %1 passed, %2 failed, %3 skipped, %4 not run"
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Rotate the phone to landscape, then back to portrait"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Rotate the phone to landscape, then back to portrait. The screen orientation sensor must follow."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Run the whole category"
+msgstr ""
+
+#: qml/Main.qml
+msgid "SIM card"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "SIM is locked"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "SIM locked (%1 required)"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "SIM ready"
+msgstr ""
+
+#: qml/tests/SimTest.qml
+msgid "SIM ready — %1"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Save"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Saving unavailable (plugin missing)"
+msgstr ""
+
+#: qml/tests/BluetoothTest.qml
+msgid "Scanning Bluetooth… (turn it on and put a discoverable device nearby)"
+msgstr ""
+
+#: qml/tests/WifiTest.qml
+msgid "Scanning Wi-Fi…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Screen and touch"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Screen rotation"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Screen – colors"
+msgstr ""
+
+#: qml/tests/SensorTest.qml
+msgid "Sensor missing / backend unavailable (%1)"
+msgstr ""
+
+#: qml/tests/SensorTest.qml
+msgid "Sensor not present on this device"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Sensors"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Show the %1 passed tests"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Skip"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Skip this step"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Skipped"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Skipped by the user"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Speaker"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Stand near a window or outside. It can take up to 2 minutes."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Start"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Start the guided assistant"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Step %1 of %2"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Storage (SQLite)"
+msgstr ""
+
+#: qml/tests/StorageTest.qml
+msgid "Storage error: "
+msgstr ""
+
+#: qml/tests/MemoryTest.qml
+msgid "Storage: %1 GB free of %2 GB"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Test in progress…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "The app crashed during this test"
+msgstr ""
+
+#: qml/Main.qml
+msgid "The camera opens and takes a photo by itself. On some devices the camera driver can crash the app: results already obtained are kept."
+msgstr ""
+
+#: qml/Main.qml
+msgid "The flashlight will turn on at the back of the phone. Look at it."
+msgstr ""
+
+#: qml/Main.qml
+msgid "The screen will show red, green, blue, white, then black. Look for dead pixels or stains, then answer."
+msgstr ""
+
+#: qml/TestBase.qml
+msgid "Timed out"
+msgstr ""
+
+#: qml/TestBase.qml
+msgid "Timed out — "
+msgstr ""
+
+#: qml/tests/WifiSpeedTest.qml
+msgid "Too slow: "
+msgstr ""
+
+#: qml/Main.qml
+msgid "Touch each of the 12 cells to turn them green. At some point, use 2 fingers at the same time."
+msgstr ""
+
+#: qml/tests/TouchTest.qml
+msgid "Touch every cell, using 2 fingers at some point"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Turn Bluetooth on and put a discoverable device nearby."
+msgstr ""
+
+#: qml/Main.qml
+msgid "Turn the volume up. A two-note tone will be played."
+msgstr ""
+
+#: qml/tests/RotationTest.qml
+msgid "Unknown"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "Unsupported audio format (%1 bytes)"
+msgstr ""
+
+#: qml/tests/VibrationTest.qml
+msgid "Vibrating…"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Vibration"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Volume buttons"
+msgstr ""
+
+#: qml/tests/ButtonsTest.qml
+msgid "Volume up and down detected"
+msgstr ""
+
+#: qml/tests/ButtonsTest.qml
+msgid "Volume up: %1   Volume down: %2   (key %3)"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Wave your hand in front of the sensor"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Wave your hand in front of the top of the screen (proximity sensor), then take it away."
+msgstr ""
+
+#: qml/tests/DisplayTest.qml
+msgid "Were all the colors uniform (no dead pixels or stains)?"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Wi-Fi (scan)"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "Wi-Fi is off"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Wi-Fi speed"
+msgstr ""
+
+#: qml/Main.qml
+msgid "Writes and reads back 200 rows in the local database."
+msgstr ""
+
+#: qml/Main.qml qml/TestBase.qml
+msgid "Yes"
+msgstr ""
+
+#: qml/Main.qml
+msgid "front"
+msgstr ""
+
+#: backend/backend.cpp
+msgid "oFono unreachable (system D-Bus)"
+msgstr ""
+
+#: qml/Main.qml
+msgid "rear"
+msgstr ""
+
+#: qml/Main.qml
+msgid "screen"
+msgstr ""
+
+#: qml/Main.qml
+msgid "to do"
+msgstr ""

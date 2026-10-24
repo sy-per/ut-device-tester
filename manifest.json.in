@@ -1,0 +1,15 @@
+{
+    "name": "devicetester.jimmy",
+    "description": "Hardware self-test for Ubuntu Touch: screen, touch, camera, GPS, Wi-Fi, Bluetooth, sensors, SIM and more, with a guided assistant.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Device Tester",
+    "hooks": {
+        "devicetester": {
+            "apparmor": "devicetester.apparmor",
+            "desktop": "devicetester.desktop"
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Jimmy Lejeune <jimmy@makeinweb.fr>",
+    "framework": "ubuntu-sdk-20.04"
+}

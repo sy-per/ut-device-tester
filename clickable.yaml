@@ -1,0 +1,5 @@
+clickable_minimum_required: 8.0.0
+builder: cmake
+kill: qmlscene
+dependencies_target:
+  - qtmultimedia5-dev

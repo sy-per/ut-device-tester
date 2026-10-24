@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Device Tester
+Comment=Tests automatiques du matériel
+Exec=qmlscene -I qml %U qml/Main.qml
+Icon=assets/icon.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Ubuntu-Touch=true
