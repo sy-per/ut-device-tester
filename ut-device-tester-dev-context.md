@@ -45,3 +45,6 @@ Type QML `Backend` : `batteryInfo()` (sysfs /sys/class/power_supply), `startMicT
 ## Categories / tests added
 - Categories `adv` ("Advanced / SIM": Modem, SIM card, Mobile network, Mobile data via oFono) and `other` (Charger and USB, Memory and storage, Headset jack, Wi-Fi speed, Device information) have `guided: false`: **not** part of the guided assistant, only reachable from their category list. Screen rotation test added to the `screen` category (in the guided run).
 - OnePlus 3T findings: oFono sees **no modem** (SIM tests fail/skip), headset jack = /sys/class/switch/h2w/state, USB charger = power_supply `usb` online.
+
+## Repository
+https://github.com/sy-per/ut-device-tester (public, branch master, GPL-3.0). Maintainer in manifest: Jimmy Lejeune <jimmy@makeinweb.fr>; app id stays `devicetester.jimmy`; framework ubuntu-sdk-20.04; apparmor unconfined (OpenStore submission planned for unconfined).
